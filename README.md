@@ -1,4 +1,5 @@
 # 🧠 Sêneca IA Aprendizagem
+https://notebook.google.com/notebook/6473c74f-ae8c-41d6-935b-69ff4fb345f9
 
 ### Segundo cérebro baseado nos ensinamentos de Sêneca
 
@@ -569,37 +570,8 @@ A proposta do segundo cérebro é justamente essa:
 
 > **Não apenas guardar conhecimento, mas transformar conhecimento em consciência e prática.**
 
----
 
-## 👩‍💻 Autora
 
-**Danielle Thomaz**
-
-Projeto desenvolvido como atividade de aprendizagem e experimentação com Inteligência Artificial.
-
-### Tecnologias e ferramentas
-
-* GitHub
-* Gemini / NotebookLM
-* Inteligência Artificial Generativa
-* Markdown
-
----
-
-## 📌 Entrega DIO
-
-Este repositório contém:
-
-* ✅ Objetivos do projeto
-* ✅ Metodologia
-* ✅ Curadoria de fontes
-* ✅ Testes de prompts
-* ✅ Resultados e aplicações
-* ✅ Resumos estruturados
-* ✅ Glossário
-* ✅ Miniguia de estudo
-* ✅ Prompts reutilizáveis
-* ✅ Possibilidades de evolução
 
 **Repositório:**
 `https://github.com/daniellemsthomaz/Seneca-IA-Aprendizagem`
